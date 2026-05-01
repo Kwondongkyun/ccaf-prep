@@ -1,0 +1,12 @@
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+node_modules/
+
+# Session context files (local only)
+findings.md
+memory.md
+plan.md
+progress.md

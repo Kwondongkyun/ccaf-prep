@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "skills": {
+    "learn-agentic-architecture-orchestration": {
+      "source": "Kwondongkyun/ccaf-prep",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/learn-agentic-architecture-orchestration/SKILL.md",
+      "computedHash": "fce686f46cf8e0cdbeebf326888addd811ece6958f7e599fe3b8e61eac4e0769"
+    },
+    "learn-tool-design-mcp-integration": {
+      "source": "Kwondongkyun/ccaf-prep",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/learn-tool-design-mcp-integration/SKILL.md",
+      "computedHash": "7099eafa7765f31e98a6f9bd5a0589d17222bbc9dd6150e15d5a8378fd16d675"
+    },
+    "learn-claude-code-configuration-workflows": {
+      "source": "Kwondongkyun/ccaf-prep",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/learn-claude-code-configuration-workflows/SKILL.md",
+      "computedHash": "0e178eaf5049560b9145c91ffe191bca54b0f7ebdea9b41b111ec2295ca98c50"
+    },
+    "learn-prompt-engineering-structured-output": {
+      "source": "Kwondongkyun/ccaf-prep",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/learn-prompt-engineering-structured-output/SKILL.md",
+      "computedHash": "d077e1c9ebb92d2ee7965283172d00c60002d7d4f1daa3f91dfb2155360871d1"
+    },
+    "learn-context-management-reliability": {
+      "source": "Kwondongkyun/ccaf-prep",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/learn-context-management-reliability/SKILL.md",
+      "computedHash": "ae6c710f1f60f8a1d4c3f2bb7eacba2c945e9bbfbc6151252edbbbabbeea7873"
+    },
+    "learn-meta": {
+      "source": "Kwondongkyun/ccaf-prep",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/learn-meta/SKILL.md",
+      "computedHash": "c26abccdc42298080dfd6dc934eba4e0cdae1c9f76f88394bda65f9ad1536712"
+    },
+    "learn-quiz": {
+      "source": "Kwondongkyun/ccaf-prep",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/learn-quiz/SKILL.md",
+      "computedHash": "273fb70271ecb08b60c80b4b1c79b46dc52112e4fc95b73e812aac58670a333f"
+    }
+  }
+}
