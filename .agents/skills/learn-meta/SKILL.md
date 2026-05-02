@@ -1,6 +1,6 @@
 ---
 name: learn-meta
-description: CCA-F 시험 메타 — 공식 PDF 기반 함정 30+, 시나리오 6, Sample Q 12, 시험 전략. "learn-meta", "함정", "시나리오", "출제 패턴" 요청에 사용.
+description: CCA-F 시험 메타 — 공식 PDF 기반 함정 30+, 시나리오 6, Sample Q 12, 시험 전략, Anthropic Academy 17 공식 코스 ↔ 도메인 매핑. "learn-meta", "함정", "시나리오", "출제 패턴", "공식 코스" 요청에 사용.
 ---
 
 # CCA-F 시험 메타 — 공식 PDF 기반 출제 패턴 종합
@@ -37,6 +37,7 @@ description: CCA-F 시험 메타 — 공식 PDF 기반 함정 30+, 시나리오 
 | `references/scenarios.md` | 공식 6 시나리오 — 출제 가능 패턴 |
 | `references/sample-q.md` | 공식 Sample Q 12개 풀이 + 함정 매핑 |
 | `references/strategy.md` | 시험 전략·시간 배분·실수 방지 |
+| `references/anthropic-courses.md` | 공식 Anthropic Academy 17 코스 ↔ CCA-F 도메인 매핑 |
 
 ---
 
@@ -132,7 +133,8 @@ AskUserQuestion({
       {"label": "함정 30+ 정리 (traps.md)", "description": "도메인별 함정 종합"},
       {"label": "시나리오 6개 (scenarios.md)", "description": "공식 출제 시나리오"},
       {"label": "Sample Q 풀이 (sample-q.md)", "description": "12문항 정답·해설"},
-      {"label": "시험 전략 (strategy.md)", "description": "시간·실수 방지"}
+      {"label": "시험 전략 (strategy.md)", "description": "시간·실수 방지"},
+      {"label": "공식 코스 매핑 (anthropic-courses.md)", "description": "약점 도메인 보강용 Anthropic Academy 17 코스"}
     ],
     "multiSelect": false
   }]
